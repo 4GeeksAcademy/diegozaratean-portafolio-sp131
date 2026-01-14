@@ -3,5 +3,6 @@ las tecnologias que mas me gustan son:
 hmtl 
 css
 js
+bootstrap
 
 command line
