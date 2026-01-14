@@ -1,4 +1,4 @@
-las tecnologias que mas me gustan son:
+las tecnologias que mas me gustan son: ESTO NO SE DBE SUBIR
 
 hmtl 
 css
@@ -7,3 +7,4 @@ bootstrap
 
 command line
 git
+github
