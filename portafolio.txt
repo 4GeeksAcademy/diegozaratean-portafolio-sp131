@@ -4,6 +4,4 @@ hmtl
 css
 js
 
-
-react
-python
+command line
